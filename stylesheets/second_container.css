@@ -1,0 +1,21 @@
+#second_container{
+	clear: right;
+}
+#second_container>div{
+	width: 600px;
+	margin: auto;
+	border-width:2px;
+	border-style: solid;
+	border-color: #000;
+	background-color: #FFF;
+	padding: 30px 5px;
+}
+#second_container div div{
+	width: 350px;
+	padding:0 30px;
+	display: inline-block;
+}
+#second_container div div span{
+	display: block;
+
+}
